@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/etecjrm/static/css/main.6588ee00.chunk.css",
-    "main.js": "/etecjrm/static/js/main.27b5d0a0.chunk.js",
-    "main.js.map": "/etecjrm/static/js/main.27b5d0a0.chunk.js.map",
-    "runtime-main.js": "/etecjrm/static/js/runtime-main.c5b820dd.js",
-    "runtime-main.js.map": "/etecjrm/static/js/runtime-main.c5b820dd.js.map",
-    "static/js/2.3ebe1cb9.chunk.js": "/etecjrm/static/js/2.3ebe1cb9.chunk.js",
-    "static/js/2.3ebe1cb9.chunk.js.map": "/etecjrm/static/js/2.3ebe1cb9.chunk.js.map",
-    "index.html": "/etecjrm/index.html",
-    "static/css/main.6588ee00.chunk.css.map": "/etecjrm/static/css/main.6588ee00.chunk.css.map",
-    "static/js/2.3ebe1cb9.chunk.js.LICENSE.txt": "/etecjrm/static/js/2.3ebe1cb9.chunk.js.LICENSE.txt",
-    "static/media/heroes.b413d9df.png": "/etecjrm/static/media/heroes.b413d9df.png",
-    "static/media/logo.4f957741.svg": "/etecjrm/static/media/logo.4f957741.svg"
+    "main.css": "/etecjrm-frontend/static/css/main.6588ee00.chunk.css",
+    "main.js": "/etecjrm-frontend/static/js/main.27b5d0a0.chunk.js",
+    "main.js.map": "/etecjrm-frontend/static/js/main.27b5d0a0.chunk.js.map",
+    "runtime-main.js": "/etecjrm-frontend/static/js/runtime-main.3159b811.js",
+    "runtime-main.js.map": "/etecjrm-frontend/static/js/runtime-main.3159b811.js.map",
+    "static/js/2.3ebe1cb9.chunk.js": "/etecjrm-frontend/static/js/2.3ebe1cb9.chunk.js",
+    "static/js/2.3ebe1cb9.chunk.js.map": "/etecjrm-frontend/static/js/2.3ebe1cb9.chunk.js.map",
+    "index.html": "/etecjrm-frontend/index.html",
+    "static/css/main.6588ee00.chunk.css.map": "/etecjrm-frontend/static/css/main.6588ee00.chunk.css.map",
+    "static/js/2.3ebe1cb9.chunk.js.LICENSE.txt": "/etecjrm-frontend/static/js/2.3ebe1cb9.chunk.js.LICENSE.txt",
+    "static/media/heroes.b413d9df.png": "/etecjrm-frontend/static/media/heroes.b413d9df.png",
+    "static/media/logo.4f957741.svg": "/etecjrm-frontend/static/media/logo.4f957741.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5b820dd.js",
+    "static/js/runtime-main.3159b811.js",
     "static/js/2.3ebe1cb9.chunk.js",
     "static/css/main.6588ee00.chunk.css",
     "static/js/main.27b5d0a0.chunk.js"
