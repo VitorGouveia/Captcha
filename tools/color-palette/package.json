@@ -1,0 +1,44 @@
+{
+  "name": "@captcha/color-palette",
+  "author": "VitorGouveia <vitorneves.gouveia10@gmail.com>",
+  "module": "dist/color-palette.esm.js",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "tsdx build",
+    "watch": "tsdx watch",
+    "test": "tsdx test",
+    "lint": "tsdx lint",
+    "prepare": "tsdx build",
+    "size": "size-limit",
+    "analyze": "size-limit --why"
+  },
+  "devDependencies": {
+    "tsdx": "^0.14.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "tsdx lint"
+    }
+  },
+  "size-limit": [
+    {
+      "path": "dist/color-palette.cjs.production.min.js",
+      "limit": "10 KB"
+    },
+    {
+      "path": "dist/color-palette.esm.js",
+      "limit": "10 KB"
+    }
+  ]
+}

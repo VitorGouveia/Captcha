@@ -2,7 +2,7 @@
   "name": "captcha",
   "private": true,
   "version": "0.0.1",
-  "packageManager": "yarn@3.2.0",
+  "packagFolderseManager": "yarn@3.2.0",
   "workspaces": [
     "apps/*",
     "packages/*",
